@@ -1,4 +1,4 @@
-# Digital Marketing Data Valley
+# Digital Marketing Internship at Data Valley
 
 This repository outlines the digital marketing strategies and tools I implemented during my internship at Data Valley (January 2024 - April 2024), where I focused on enhancing brand visibility through targeted marketing strategies.
 
